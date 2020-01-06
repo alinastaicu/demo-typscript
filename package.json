@@ -1,0 +1,26 @@
+{
+  "name": "typscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.138",
+    "@types/node": "^10.17.6",
+    "config": "^2.0.1",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "codeceptjs": "^2.3.6",
+    "cross-env": "^5.2.0",
+    "husky": "^1.1.2",
+    "junit-merge": "^2.0.0",
+    "puppeteer": "^1.20.0",
+    "prettier": "^1.14.3",
+    "pretty-quick": "^1.8.0"
+  },
+  "author": "Alina Ignat",
+  "license": "ISC"
+}
