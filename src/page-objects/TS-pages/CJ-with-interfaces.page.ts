@@ -1,5 +1,5 @@
-const I = actor();
 import { QUESTION } from '../constants';
+const I = actor();
 
 const selectItem = (question: QUESTION, item: string) =>
   `.QuestionSingleChoice-${question}-option-${item}`;

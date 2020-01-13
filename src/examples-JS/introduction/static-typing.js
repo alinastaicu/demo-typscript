@@ -8,8 +8,8 @@ function speak(food, energy) {
 }
 
 speak(burger, calories);
-speak('tripple cheesburger', 'a ton of');
+speak('tripple cheesburger', 'cheese');
 
 // node src/examples-JS/introduction/static-typing.js
 // Our hamburger has 300 calories.
-// Our tripple cheesburger has a ton of calories.
+// Our tripple cheesburger cheese of calories.
